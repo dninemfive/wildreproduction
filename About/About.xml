@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Wild Reproduction</name>
+	<author>dninemfive</author>
+	<packageId>dninemfive.wildreproduction</packageId>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+	<description>Spiritual successor to WalkingProblem's Wild Animal Sex, allowing wild animals to reproduce. Applies the same effect using only patches, no custom defs or classes.</description>
+</ModMetaData>
