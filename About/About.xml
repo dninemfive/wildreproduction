@@ -13,6 +13,8 @@
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
 		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
 		<li>Oblitus.AnimalsLogic</li>
 	</loadAfter>
 	<description>Spiritual successor to WalkingProblem's Wild Animal Sex, allowing wild animals to reproduce. Applies the same effect using only patches, no custom defs or classes.</description>
